@@ -1,0 +1,8 @@
+<Options>
+SearchSubDirectories=1
+
+<Extensions>
+c;h
+
+<SearchPath>
+.
